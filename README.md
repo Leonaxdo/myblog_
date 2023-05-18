@@ -1,1 +1,1 @@
-# https://github.com/Leonaxdo/myblog_/blob/main/web_blog/main/main/index.html
+# https://github.com/Leonaxdo/myblog/index.html/
